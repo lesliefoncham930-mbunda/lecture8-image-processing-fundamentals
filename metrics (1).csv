@@ -1,0 +1,4 @@
+Filter,PSNR_dB,SSIM
+Median 3x3,25.37,0.62323
+Gaussian sigma 1.5,25.755,0.69213
+Median 3x3 + Gaussian sigma 1,26.368,0.70515
